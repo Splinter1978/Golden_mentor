@@ -1,0 +1,20 @@
+.servises {
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+
+}
+.sircle {
+    height: 70px;
+    width: 70px;
+    border: 3px solid #FED136;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.icon {
+    font-size: 38px;
+    color: #FED136;
+}
